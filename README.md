@@ -6,7 +6,8 @@ https://colab.research.google.com/drive/1nB1fSb4sJd6H8tWCUj3pTeRvlLfUYBrk#scroll
 DecisionTreeRegression
 https://colab.research.google.com/drive/1LLiUIoxWs_wdlqEm87GkCZ6mIFGIcGtC#scrollTo=SX-OGG06dok7&uniqifier=1
 
-
+LinearRegression
+https://colab.research.google.com/drive/1ty00wySiXbjw2EXf8F2Zr7tTguI8nmjH?usp=sharing
 
 DataSets
 
